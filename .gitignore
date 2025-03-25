@@ -1,0 +1,9 @@
+/venv/
+/.cache
+/.env
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/requirements.txt
+/.idea/SpotifyLikedToPlaylist.iml
+/.idea/vcs.xml

@@ -1,0 +1,2 @@
+# SpotifyLikedToPlaylist
+This code retrieves a user's liked tracks from Spotify, compares them to a specified playlist, adds any new tracks to the playlist, and removes those tracks from the user's saved library.
